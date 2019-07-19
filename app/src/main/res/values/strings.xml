@@ -10,8 +10,8 @@
     <string name="shr_error_password">Your password or account might be wrong.</string>
     <string name="shr_filter_title">Filter</string>
     <string name="shr_search_title">Search</string>
-    <string name="shr_product_title">Title</string>
-    <string name="shr_product_description">Secondary text</string>
+    <string name="shr_product_title">Security Services</string>
+    <string name="shr_product_description">24 hours, Always online. </string>
 
     <!-- Shrine backdrop menu labels -->
     <string name="shr_featured_label">Featured</string>
